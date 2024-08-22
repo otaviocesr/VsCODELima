@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  text-decoration: none;
+}
+a {
+  color: pink;
+}
+
+.teste {
+  background-color: blue;
+}
+
+.teste h1 {
+  color: red;
+}
+
+#teste2 {
+  color: aquamarine;
+}
+
+p,
+.teste #teste2 {
+  font-size: 10px;
+}
+
+.teste p {
+  text-transform: uppercase;
+}
+
+.teste > p {
+  font-size: 20px;
+}
